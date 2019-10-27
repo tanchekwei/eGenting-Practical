@@ -57,7 +57,7 @@ public class GreetingsByName {
                 } else {
                     System.out.print("Undefined " + surname + ".\n");
                 }
-n            }
+            }
         }
     }
 
